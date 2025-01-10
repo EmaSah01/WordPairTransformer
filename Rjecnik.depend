@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1736550403 source:c:\users\user\onedrive\desktop\projekti c++\etf lv\lv 1\rjecnik\rjecnik.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<unordered_map>
+	<algorithm>
+	<set>
+	<random>
+	<queue>
+	<chrono>
+	"rjecnik.h"
+
+1736550516 source:c:\users\user\onedrive\desktop\projekti c++\etf lv\lv 1\rjecnik\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	"rjecnik.h"
+
+1736549516 c:\users\user\onedrive\desktop\projekti c++\etf lv\lv 1\rjecnik\rjecnik.h
+	<string>
+	<vector>
+	<utility>
+
+1736260583 c:\users\user\onedrive\desktop\projekti c++\etf lv\lv 1\rjecnik\rjecnik.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<unordered_map>
+	<algorithm>
+	"rjecnik.h"
+
